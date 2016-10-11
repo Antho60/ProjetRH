@@ -15,13 +15,13 @@
     padding : 0px;
 }
 #btn-engage{
-    background-color : #0159A0;
+    background-color : #00ABB9;
 }
 #btn-like{
-    background-color: #0061A8;
+    background-color: #00ABB9;
 }
 #btn-dontlike{
-    background-color: #00ABB9;
+    background-color: #3B5998;
 }
 .img-navbar{
     height : 70px;
@@ -29,4 +29,44 @@
 h2{
     text-align: center;
     font-size: 40px;
+}
+.margetitle{
+    margin-top:25px;
+    margin-bottom: 25px;
+}
+#carous{
+    border: #000 solid 5px;
+    padding: 0px;
+}
+.border{
+    border-left: 0px;
+    border: #000 solid 5px; 
+    background-color : #FFF;
+}
+.padtitle{
+    border: #000 solid 5px; 
+    padding-bottom: 9px;
+    padding-top:12px;   
+    margin:0px;
+    border-left-width: 0px;
+    border-right-width: 0px;
+    background-color: #74A098;
+    color : #fff;
+}
+.row{
+    padding: 0px;
+}
+#image{
+    margin-bottom: 10px;
+}
+#border-bot{
+    border: black solid 5px;
+    border-right-width: 0px;
+    border-left-width: 0px; 
+}
+#image{
+    overflow: hidden;
+}
+body{
+    background-color: #E8E8E8;
 }
