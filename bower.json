@@ -1,0 +1,14 @@
+{
+  "name": "ProjetRH",
+  "version": "1.0.0",
+  "main": "path/to/main.css",
+  "ignore": [
+    ".jshintrc",
+    "**/*.txt"
+  ],
+  "dependencies": {
+    "bootstrap": "3.3.7",
+    "bootstrap-social": "5.0.0"
+  },
+  "devDependencies": {}
+}
